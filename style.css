@@ -1,0 +1,169 @@
+.navbar-box .navbar .navbar-brand{
+
+font-family: 'Ubuntu', sans-serif;
+font-size: 28px;
+margin-left:25px ;
+
+}
+
+ul li {
+ 
+padding-right: 10px;
+margin-right: 30px; 
+text-transform: uppercase;  
+
+}
+
+.carousel {
+
+    position: relative;
+    top: 0px;
+    height: 450px;
+    background-image:url(blog1.webp);
+
+}
+
+.carousel-item{
+
+    position: relative;
+    top: 90px;
+    left: 20px;
+    color: white;
+    text-align: center;
+    height: 350px;
+    
+}
+
+.overlay{
+
+	position:absolute;
+	width: 100%;
+	height:100%;
+	top: 0;
+	left: 0;
+	background-color:rgba(0,0,0,0.5);  
+}
+
+button{
+    position: relative;
+    top:20px;
+    
+}
+
+body {
+
+    overflow-x: hidden;
+}
+
+
+.list {
+
+    position: relative;
+    left: 50px;
+}
+
+.ss{
+
+    position: relative;
+    top: 20px;
+    color: #0f4c75;
+    word-wrap: break-word;
+}
+
+
+.sfax {
+    position: relative;
+    top: 25px;
+    font-family: 'Oswald', sans-serif;
+    line-height: 25px;
+}
+
+
+.presentation {
+    width: 100%;
+    height: 250PX;
+}
+
+.line {
+    position: relative;
+    top: 20px;
+	display: block;
+	height: 5px;
+	width: 140px;
+    background-color: #0f4c75; }
+    
+    .pc {
+
+        padding-bottom: 3%;
+        padding-left: 4%;
+    }
+
+    .services {
+        width: 100%;
+        height:300px ;
+        background-image: url(background1.webp);
+     
+    }
+
+    .ser {
+
+        text-align: center;
+        font-size: 60px;
+        font-family: 'Oswald', sans-serif;
+        color: white;
+        position: relative;
+        top: 80px;
+    }
+
+    .view {
+
+        text-align: center;
+        font-size: 23px;
+        font-family: 'Oswald', sans-serif;
+        color: white;
+        position: relative;
+        top: 100px;
+    }
+
+
+    .features{
+        width: 100%;
+        height: 287px;
+        text-align: center;
+        padding: 5% 15%;
+    }
+
+   h3 {
+
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+    top: 15px;
+   }
+
+   .q{
+
+    position: relative;
+    top: 25px;
+    color:#8f8f8f;
+   }
+
+  footer{
+
+    position: relative;
+    left: 0;
+    bottom: 0;
+    height: 80px;
+    width: 100%;
+    overflow: hidden;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: 'Oswald', sans-serif; 
+  }
+
+  .copy {
+
+    position: relative;
+    top:50px ;
+  }
+
